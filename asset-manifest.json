@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AnkushSharma01/IMDB_Clone/static/css/main.e45fb457.css",
+    "main.js": "/AnkushSharma01/IMDB_Clone/static/js/main.27b7f2bc.js",
+    "index.html": "/AnkushSharma01/IMDB_Clone/index.html",
+    "main.e45fb457.css.map": "/AnkushSharma01/IMDB_Clone/static/css/main.e45fb457.css.map",
+    "main.27b7f2bc.js.map": "/AnkushSharma01/IMDB_Clone/static/js/main.27b7f2bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e45fb457.css",
+    "static/js/main.27b7f2bc.js"
+  ]
+}
